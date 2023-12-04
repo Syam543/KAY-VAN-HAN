@@ -1,0 +1,147 @@
+.wix{
+    height: 72px;
+    width:  1500px;
+    position: fixed;
+    box-shadow: 0 2px 18px 0 rgba(129,162,182,.2);
+    top: 0;
+  background-color: white;
+  
+ 
+}
+#wix-img{
+    width: 66px;
+    height: 24px;
+    margin-top: 23px;
+    cursor: pointer;
+}
+
+.vertical-line {
+    height: 25px;
+    margin-top: 24px;
+    margin-left: 651px;
+    border-left: 1px solid #bda8a8;
+    position: absolute;
+}
+#rd-mr:hover{
+background-color: blue;
+color: green;
+}
+.nav{
+    height: 100px;
+    width:  1500px;
+    position: fixed;
+    top: 0;
+}
+button{
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 96px;
+    height: 28px;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+
+}
+.zero-btn{
+   border-radius: 20px; 
+   background-color: black; color: white;
+   text-align: center;
+}
+.phn{
+    width: 17px;
+     height: 28px; 
+     margin:22px 0 0 675px;
+      position: absolute;
+      cursor: pointer;
+}
+.img-1 {
+  height: 260px;
+  width: 183px;
+  cursor: pointer;
+}
+.img-2{
+    width: 340px;
+    height: 492px;
+    margin-left:204px;
+    margin-top: 974px;
+}
+.img-3{
+    width: 535px;
+    height: 760px;
+    margin-left: 162px;
+    margin-top: 563px;
+    position: absolute;
+   
+}
+.img-4{
+    width: 583px;
+    height: 581px;
+    margin-left: 520px;
+    margin-top: 176px;
+   
+}
+
+.img-5{
+    width: 79px;
+    height: 84px;
+    margin-left: 1358px;
+    position: absolute;
+    top: 3511px;
+}
+  .img-6{
+    width: 436px;
+    height: 581px;
+    position: absolute;
+    margin-left: 25px;
+    top: 3750px;
+    cursor: pointer;
+  }
+  .img-7{
+    width: 436px;
+    height: 581px;
+    position: absolute;
+    margin-left: 500px;
+    top: 3750px;
+    cursor: pointer;
+  }
+  .img-8{
+    width: 436px;
+    height: 581px;
+    position: absolute;
+    margin-left: 970px;
+    top: 3750px;
+    cursor: pointer;
+  }
+  .img-9{
+    width: 160px;
+    height: 140px;
+    position: absolute;
+   top: 5191px;
+   margin-left: 1280px;
+  }
+
+  #edit{
+    margin-left: 1274px;
+    margin-top: 15px;
+    background: #116dff;
+    border: none;
+    border-radius: 21px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    height: 42px;
+    line-height: 42px;
+    font-size: 17px;
+    padding: 0 27px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+#kaay{
+  font-family: 'Poppins', sans-serif;
+
+}
